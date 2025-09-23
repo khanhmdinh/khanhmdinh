@@ -9,14 +9,14 @@ SQL • Python • Power BI • DAX • Data Modeling & ETL
 
 ## 🧰 Tech Stack
 - **Data Analysis & Wrangling**: Excel • SQL • Python (pandas, numpy, matplotlib)  
-- **Data Modeling**: Star/Snowflake schemas • Fact/Dimension design • SCD basics  
+- **Data Modeling**: Star/Snowflake schemas • Fact/Dimension design  
 - **Business Intelligence**: Power BI (DAX, Power Query/M) • Dataflows • Incremental Refresh  
 - **Cloud & Warehouse**: BigQuery • Snowflake • (Lakehouse) Databricks/Fabric concepts  
 - **Orchestration**: Airflow • Dagster (basics)  
 - **Version Control**: Git • GitHub
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/SQL-ANSI/TSQL/Oracle-0e75b6?style=flat&logo=databricks&logoColor=white" alt="SQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-ANSI/TSQL-0e75b6?style=flat&logo=databricks&logoColor=white" alt="SQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-pandas%20|%20numpy%20|%20matplotlib-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/Power%20BI-DAX%20|%20Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"></a>
   <a href="#"><img src="https://img.shields.io/badge/BigQuery-Data%20Warehouse-4285F4?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery"></a>
