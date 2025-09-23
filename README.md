@@ -5,10 +5,6 @@ SQL • Python • Power BI • DAX • Data Modeling & ETL
 
 > *Graduate from the University of Economics – The University of Danang; strong in SQL‑driven data preparation in a Lakehouse (Medallion Architecture), delivering clear Power BI dashboards with consistent KPIs. Eager to contribute to a dynamic team and gain practical experience on the path to becoming an Analytics Engineer within the next 3 years.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khanhmdinh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧰 Tech Stack
@@ -33,13 +29,13 @@ SQL • Python • Power BI • DAX • Data Modeling & ETL
 
 ## 🏆 Portfolio Highlights
 - **[End‑to‑End Azure Databricks Lakehouse – Traffic & Roads Analytics](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/01_End-to-End%20Azure%20Databricks%20Lakehouse%20%E2%80%93%20Traffic%20%26%20Roads%20Analytics)**
-  *Tags*: `#Lakehouse` `#Medallion` `#ETL` `#Analytics`
+> *Tags*: `#Lakehouse` `#Medallion` `#ETL` `#Analytics`
 
 - **[Microsoft Fabric LMS Lakehouse – Incremental Medallion Pipeline](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/02_Microsoft%20Fabric%20LMS%20Lakehouse%20%E2%80%93%20Incremental%20Medallion%20Pipeline)**
-  *Tags*: `#Fabric` `#Medallion` `#Incremental` `#PowerBI`
+> *Tags*: `#Fabric` `#Medallion` `#Incremental` `#PowerBI`
 
 - **[Housing Finance Market Analytics](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/03_Housing%20Finance%20Market%20Analytics)**
-  *Tags*: `#Finance` `#BI` `#DAX` `#Modeling`
+> *Tags*: `#Finance` `#BI` `#DAX` `#Modeling`
 
 ---
 
