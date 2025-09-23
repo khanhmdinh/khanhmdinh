@@ -32,19 +32,14 @@ SQL • Python • Power BI • DAX • Data Modeling & ETL
 ---
 
 ## 🏆 Portfolio Highlights
-- **End‑to‑End Azure Databricks Lakehouse – Traffic & Roads Analytics**  
-  🔗 <https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/01_End-to-End%20Azure%20Databricks%20Lakehouse%20%E2%80%93%20Traffic%20%26%20Roads%20Analytics>  
+- **[End‑to‑End Azure Databricks Lakehouse – Traffic & Roads Analytics](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/01_End-to-End%20Azure%20Databricks%20Lakehouse%20%E2%80%93%20Traffic%20%26%20Roads%20Analytics)**
   *Tags*: `#Lakehouse` `#Medallion` `#ETL` `#Analytics`
 
-- **Microsoft Fabric LMS Lakehouse – Incremental Medallion Pipeline**  
-  🔗 <https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/02_Microsoft%20Fabric%20LMS%20Lakehouse%20%E2%80%93%20Incremental%20Medallion%20Pipeline>  
+- **[Microsoft Fabric LMS Lakehouse – Incremental Medallion Pipeline](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/02_Microsoft%20Fabric%20LMS%20Lakehouse%20%E2%80%93%20Incremental%20Medallion%20Pipeline)**
   *Tags*: `#Fabric` `#Medallion` `#Incremental` `#PowerBI`
 
-- **Housing Finance Market Analytics**  
-  🔗 <https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/03_Housing%20Finance%20Market%20Analytics>  
+- **[Housing Finance Market Analytics](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/03_Housing%20Finance%20Market%20Analytics)**
   *Tags*: `#Finance` `#BI` `#DAX` `#Modeling`
-
-> *Lưu ý*: Thẻ “repo pin” của GitHub‑Readme‑Stats chỉ nhận **tên repo**, không hỗ trợ pin **sub‑folder**. Vì vậy mình hiển thị danh mục + link trực tiếp như trên để tránh lỗi render.
 
 ---
 
@@ -56,9 +51,6 @@ SQL • Python • Power BI • DAX • Data Modeling & ETL
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhmdinh&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=khanhmdinh&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
