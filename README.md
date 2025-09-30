@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Minh Khanh Thi Dinh**
 
-**BI Developer**  
-SQL • Python • Power BI • DAX • Data Modeling & ETL
+**Aspiring BI Developer**
 
 > *Graduate from the University of Economics – The University of Danang; strong in SQL‑driven data preparation in a Lakehouse (Medallion Architecture), delivering clear Power BI dashboards with consistent KPIs. Eager to contribute to a dynamic team and gain practical experience on the path to becoming an Analytics Engineer within the next 3 years.*
 
