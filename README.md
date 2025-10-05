@@ -39,16 +39,6 @@
 ---
 
 ## 📈 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=khanhmdinh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhmdinh&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanhmdinh&theme=github&area=true&hide_border=true&radius=8" alt="Contribution Graph" />
