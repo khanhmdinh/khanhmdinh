@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Minh**
 
-> *Graduate from the University of Economics – The University of Danang; strong in SQL‑driven data preparation in a Lakehouse (Medallion Architecture), delivering clear Power BI dashboards with consistent KPIs. Eager to contribute to a dynamic team and gain practical experience on the path to becoming an Analytics Engineer within the next 3 years.*
+> *Graduate from the University of Economics – The University of Danang with hands-on experience building Azure-based lakehouse and Power BI analytics.*
 
 ---
 
