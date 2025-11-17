@@ -12,15 +12,6 @@
 - **Orchestration**: Airflow • Dagster (basics)  
 - **Version Control**: Git • GitHub
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/SQL-ANSI/TSQL-0e75b6?style=flat&logo=databricks&logoColor=white" alt="SQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-DAX%20|%20Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"></a>
-  <a href="#"><img src="https://img.shields.io/badge/BigQuery-Data%20Warehouse-4285F4?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Snowflake-Data%20Cloud-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-Workflow-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
-</p>
-
 ---
 
 ## 🏆 Portfolio Highlights
