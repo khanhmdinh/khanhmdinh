@@ -1,16 +1,6 @@
 # 👋 Hi, I'm **Minh**
 
-> *Graduate from the University of Economics – The University of Danang with hands-on experience building Azure-based lakehouse and Power BI analytics.*
-
----
-
-## 🧰 Tech Stack
-- **Data Analysis & Wrangling**: Excel • SQL
-- **Data Modeling**: Fact/Dimension design
-- **Business Intelligence**: Power BI (DAX, Power Query)
-- **Cloud & Dev Tools**: Azure (ADLS Gen2, Databricks, Microsoft Fabric, Data Factory)
-- **Orchestration**: Airflow • Dagster (basics)  
-- **Version Control**: Git • GitHub
+> *A fresh graduate from the University of Economics, The University of Danang, seeking for a challenging and progressive position in a dynamic and challenging software environment to exercise my full potential, contribute to the organization and learn at the same time.*
 
 ---
 
