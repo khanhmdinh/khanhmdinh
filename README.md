@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Minh**
 
-> *A fresh graduate from the University of Economics, The University of Danang, seeking for a challenging and progressive position in a dynamic and challenging software environment to exercise my full potential, contribute to the organization and learn at the same time.*
+> *Recent International Economics graduate with a strong passion for Data Analytics. Skilled in SQL, Power BI, Excel and cloud-based data platforms, with a logical mindset and strong problem-solving abilities.*
 
 ---
 
