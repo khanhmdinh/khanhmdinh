@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Minh**
 
-> *Recent International Economics graduate with a strong passion for Data Analytics. Skilled in SQL, Power BI, Excel and cloud-based data platforms, with a logical mindset and strong problem-solving abilities.*
+> *Data Ops | Curious Mind in Data & Analytics*
 
 ---
 
@@ -13,14 +13,6 @@
 
 - **[Housing Finance Market Analytics](https://github.com/khanhmdinh/khanhmdinh.github.io/tree/main/03_Housing%20Finance%20Market%20Analytics)**
 > *Tags*: `#Finance` `#BI` `#DAX` `#Modeling`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanhmdinh&theme=github&area=true&hide_border=true&radius=8" alt="Contribution Graph" />
-</p>
 
 ---
 
