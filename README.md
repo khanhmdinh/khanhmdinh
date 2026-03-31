@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Minh**
 
-> *Curious Mind in Data & Analytics*
-
 ---
 
 ## 🏆 Portfolio Highlights
