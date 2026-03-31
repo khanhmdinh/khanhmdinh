@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Minh**
 
-> *Data Ops | Curious Mind in Data & Analytics*
+> *Curious Mind in Data & Analytics*
 
 ---
 
